@@ -1,5 +1,5 @@
 # Reference
-Please cite this paper: L. Fan, Z. Miao, S. Shah, P. Koralewicz, V. Gevorgian and J. Fu, "Data-Driven Dynamic Modeling in Power Systems: A Fresh Look on Inverter-Based Resource Modeling," in IEEE Power and Energy Magazine, vol. 20, no. 3, pp. 64-76, May-June 2022, doi: 10.1109/MPE.2022.3150827.
+L. Fan, Z. Miao, S. Shah, P. Koralewicz, V. Gevorgian and J. Fu, "Data-Driven Dynamic Modeling in Power Systems: A Fresh Look on Inverter-Based Resource Modeling," in IEEE Power and Energy Magazine, vol. 20, no. 3, pp. 64-76, May-June 2022, doi: 10.1109/MPE.2022.3150827.
 
 bib: 
 
